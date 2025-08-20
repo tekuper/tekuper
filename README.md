@@ -35,14 +35,13 @@ Let’s turn data into meaningful insights and make a positive impact together!
 
 ---
 
-📈 **Contributions (Dark Snake Theme)**
+### Contributions (Dark Snake Theme)
 
-<!-- Dark mode -->
+<!-- Dark -->
 ![GitHub Snake Dark](https://raw.githubusercontent.com/tekuper/tekuper/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-<!-- Light mode -->
+<!-- Light -->
 ![GitHub Snake Light](https://raw.githubusercontent.com/tekuper/tekuper/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
----
 
 🔗 **Let’s Connect**  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/abdel-hamid-assadi/)  

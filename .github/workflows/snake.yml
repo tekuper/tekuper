@@ -21,7 +21,7 @@ jobs:
         with:
           github_user_name: tekuper
           outputs: |
-            assets/snake.svg
+            assets/snake.svg?background=white
             assets/snake-dark.svg?palette=github-dark
 
       - name: Commit SVGs to main

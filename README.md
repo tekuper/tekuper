@@ -35,12 +35,14 @@ Let’s turn data into meaningful insights and make a positive impact together!
 
 ---
 
-### Contributions 
+## 🐍 Contributions (Snake with White Background)
 
-<!-- Dark -->
-![GitHub Snake Dark](https://raw.githubusercontent.com/tekuper/tekuper/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-<!-- Light -->
-![GitHub Snake Light](https://raw.githubusercontent.com/tekuper/tekuper/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+<!-- Light theme -->
+![GitHub Snake Light](https://raw.githubusercontent.com/tekuper/tekuper/main/assets/snake.svg#gh-light-mode-only)
+
+<!-- Dark theme -->
+![GitHub Snake Dark](https://raw.githubusercontent.com/tekuper/tekuper/main/assets/snake-dark.svg#gh-dark-mode-only)
+
 
 
 🔗 **Let’s Connect**  

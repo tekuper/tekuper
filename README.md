@@ -35,7 +35,7 @@ Let’s turn data into meaningful insights and make a positive impact together!
 
 ---
 
-### Contributions (Dark Snake Theme)
+### Contributions 
 
 <!-- Dark -->
 ![GitHub Snake Dark](https://raw.githubusercontent.com/tekuper/tekuper/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
